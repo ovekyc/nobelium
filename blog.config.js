@@ -4,7 +4,7 @@ const BLOG = {
   email: 'e89chan@gmail.com',
   link: '',
   description: '',
-  lang: ['en-US', 'ko-KR'],
+  lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
