@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'Up side down',
+  title: 'Up Side Down',
   author: 'Youngchan Kim',
   email: 'e89chan@gmail.com',
   link: '',
