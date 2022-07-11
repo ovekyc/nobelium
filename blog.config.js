@@ -1,7 +1,7 @@
 const BLOG = {
   title: 'Up Side Down',
-  author: 'Youngchan Kim',
-  email: 'e89chan@gmail.com',
+  author: 'C',
+  email: 'chanhedgeofficial@gmail.com',
   link: '',
   description: '',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
