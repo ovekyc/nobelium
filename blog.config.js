@@ -37,20 +37,20 @@ const BLOG = {
   },
   comment: {
     // support provider: gitalk, utterances, cusdis
-    provider: 'gitalk', // leave it empty if you don't need any comment plugin
+    provider: 'cusdis', // leave it empty if you don't need any comment plugin
     gitalkConfig: {
-      repo: 'nobelium', // The repository of store comments
-      owner: 'ovekyc',
-      admin: ['ovekyc'],
-      clientID: '06e94722e0e4ed61620f',
-      clientSecret: '68b63754d4f4b474c2866910ed97149ecb47ab17',
+      repo: '', // The repository of store comments
+      owner: '',
+      admin: [],
+      clientID: '',
+      clientSecret: '',
       distractionFreeMode: false
     },
     utterancesConfig: {
       repo: ''
     },
     cusdisConfig: {
-      appId: '', // data-app-id
+      appId: 'd60f34ad-75e3-459d-8c86-af5ae15d9b28', // data-app-id
       host: 'https://cusdis.com', // data-host, change this if you're using self-hosted version
       scriptSrc: 'https://cusdis.com/js/cusdis.es.js' // change this if you're using self-hosted version
     }
