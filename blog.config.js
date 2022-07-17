@@ -39,7 +39,7 @@ const BLOG = {
     // support provider: gitalk, utterances, cusdis
     provider: 'gitalk', // leave it empty if you don't need any comment plugin
     gitalkConfig: {
-      repo: 'nobelium-comments', // The repository of store comments
+      repo: 'nobelium', // The repository of store comments
       owner: 'ovekyc',
       admin: ['ovekyc'],
       clientID: '06e94722e0e4ed61620f',
